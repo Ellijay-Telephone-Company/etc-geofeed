@@ -14,4 +14,4 @@ Please use the **`feed.csv`** file for all AS25853 prefixes.
 
 | Field | Value |
 |-------|-------|
-| Last Update | 2026-10-11T18:30:09.125711-04:00 (RFC3339) |
+| Last Update | 2026-10-12T18:30:09.164061-04:00 (RFC3339) |
